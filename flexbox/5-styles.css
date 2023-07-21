@@ -389,9 +389,7 @@ ul.row {
 /* Navbar
       ============================= */
 
-.navbar-menu {
-    float: right;
-}
+.navbar-menu {}
 
 .nav {
     margin: 0;
